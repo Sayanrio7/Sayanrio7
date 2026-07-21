@@ -67,19 +67,6 @@ Responsive fitness web application focused on modern UI and user experience.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sayanrio7&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayanrio7&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sayanrio7&theme=transparent&hide_border=true"/>
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/sayan-podder-7a10b2240
