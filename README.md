@@ -1,6 +1,6 @@
 # Hi, I'm Sayan Podder 👋
 
-### Full Stack Developer
+### Software Developer
 
 I'm a Full-Stack MERN Developer from **Kolkata, India**, passionate about building scalable, production-ready web applications with clean architecture, secure backend systems, and intuitive user experiences.
 
